@@ -24,6 +24,7 @@ h4 {
     color: gray;
 }
 
+
 /* Header */
 
 h1 {
@@ -39,7 +40,9 @@ h1 {
 
 .download_link {
     color: aquamarine;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 1rem;
+    font-weight: 300;
     text-align: center;
     text-decoration-line: underline;
 }
