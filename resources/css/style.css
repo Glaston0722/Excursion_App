@@ -2,6 +2,7 @@
 
 * {
     font-size: 16px;
+    color: white;
 }
 
 body {
@@ -9,6 +10,20 @@ body {
     border: 1px blue solid;
 }
 
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2.625rem;
+    font-weight: 300;
+    text-align: center
+}
+
+h4 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.3125rem;
+    font-weight: 300;
+    text-align: center;
+    color: gray;
+}
 
 /* Header */
 
@@ -31,5 +46,24 @@ h1 {
 }
 
 .app_example {
+    display: block;
     margin: 0 auto;
+}
+
+.campsite {
+    display: block;
+    margin: 0 auto;
+}
+
+.phone_icon {
+    display: block;
+    margin: 0 auto;
+}
+
+
+/* Footer */
+
+.footer {
+    text-align: right;
+    margin-right: 1rem;
 }
