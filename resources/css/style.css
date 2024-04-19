@@ -29,3 +29,7 @@ h1 {
     text-align: center;
     text-decoration-line: underline;
 }
+
+.app_example {
+    margin: 0 auto;
+}
