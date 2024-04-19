@@ -1,0 +1,31 @@
+/* Universal styling */ 
+
+* {
+    font-size: 16px;
+}
+
+body {
+    background-color: black;
+    border: 1px blue solid;
+}
+
+
+/* Header */
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 3.125rem;
+    font-weight: 400;
+    color: white;
+    text-align: center;
+}
+
+
+/* Main Content */
+
+.download_link {
+    color: aquamarine;
+    font-size: 1rem;
+    text-align: center;
+    text-decoration-line: underline;
+}
